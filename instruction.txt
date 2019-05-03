@@ -1,0 +1,3 @@
+Project should be using virtual env
+project should be in src folder
+Inside of virtual env create a folder named script all of the test file will be there
